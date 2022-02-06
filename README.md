@@ -8,6 +8,7 @@ To build the back end for an e-commerce site using the Express.js API, configure
 * Node.js
 * Express.js
 * MySQL
+* Insomnia
 
 ## Table of Contents
 * [Screenshot](#screenshot)
