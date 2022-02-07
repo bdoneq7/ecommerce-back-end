@@ -25,7 +25,7 @@ To build the back end for an e-commerce site using the Express.js API, configure
 Please clone the repo to your local machine, install Node, Express, DotEnv, MySql, and Sequelize.
 
 ## Video 
-link
+https://watch.screencastify.com/v/LoGuDFfcgRlxqLHbch5s
 
 ## License 
 Using the MIT License.
